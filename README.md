@@ -15,8 +15,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] User sees a descriptive error message if internet is not available
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] Changed Color scheme
 
 ## Video Walkthrough
 
